@@ -79,7 +79,7 @@ Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Le
 Applied to present "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches" | Seattle, US, Jan. 2025
 
 ## Publications
-1. Guo, Z., Liu, J., Liu, X., Meng, Z., Pu, M., Wu, H., Yan, X., Yang, G., Zhang, X., Chen, C. and Chen, F., 2024. An integrated MCDM model with enhanced decision support in transport safety using machine learning optimization. Knowledge-Based Systems, 301, p.112286. \[https://doi.org/10.1016/j.knosys.2024.112286]
+1. Guo, Z., Liu, J., Liu, X., Meng, Z., Pu, M., Wu, H., Yan, X., Yang, G., Zhang, X., Chen, C. and Chen, F., 2024. An integrated MCDM model with enhanced decision support in transport safety using machine learning optimization. Knowledge-Based Systems, 301, p.112286. \[https://doi.org/10.1016/j.knosys.2024.112286 \]
 
 ## Intership
 **Software Engineer Intern @ Microsoft (MS) Asia-Pacific Research \& Development Group** <br>
