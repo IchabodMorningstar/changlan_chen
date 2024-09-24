@@ -12,13 +12,13 @@
 
 ## Research & Projects
 ### Interpreting Working Memory Capacity Limitations Using Artificial Neural Networks
-Capstone, Supervisor: Prof. Sukbin Lim, NYUSH, China
+Capstone, Supervisor: Prof. Sukbin Lim, NYUSH, China <br>
 Sep. 2024 - present
 
--Simulated the human brain activities using ANNs, specifically Recurrent Neural Networks (RNNs), to encode and memorize multiple stimuli simultaneously;
--Focused on determining neural structures required to generate human-like behaviors in natural environments, then designed and pre-trained CNN models to replicate the naturalistic constraints;
--Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
--Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
+- Simulated the human brain activities using ANNs, specifically Recurrent Neural Networks (RNNs), to encode and memorize multiple stimuli simultaneously;
+- Focused on determining neural structures required to generate human-like behaviors in natural environments, then designed and pre-trained CNN models to replicate the naturalistic constraints;
+- Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
+- Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -26,44 +26,44 @@ Sep. 2024 - present
 Research Assistant, CSDA, University of West Florida, US
 Sep. 2024 - present
 
--Simulated the human brain activities using ANNs, specifically Recurrent Neural Networks (RNNs), to encode and memorize multiple stimuli simultaneously;
--Focused on determining neural structures required to generate human-like behaviors in natural environments, then designed and pre-trained CNN models to replicate the naturalistic constraints;
--Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
--Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
+- Simulated the human brain activities using ANNs, specifically Recurrent Neural Networks (RNNs), to encode and memorize multiple stimuli simultaneously;
+- Focused on determining neural structures required to generate human-like behaviors in natural environments, then designed and pre-trained CNN models to replicate the naturalistic constraints;
+- Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
+- Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
 
 ### Imitation Learning on Precise Robotic Control
 Research Assistant, AI4CE, NYU Tandon, US
 Jun. 2024 - Sep. 2024
 
--Recorded sequences of a robotic arm performing precise tasks, including picking up a block and moving it to a designated location with perfect alignment of contact surfaces, based on guidance from human operators;
--Referenced and utilized the Action Chunking with Transformers (ACT) framework to guide the development of an imitation learning model;
--Built an imitation learning model that learns from a small dataset consisting of 20 sequences of recorded images and actions;
--Employed modified Transformers to predict features of the next frame and used a decoder to generate subsequent actions based on the predicted frame and action data.
+- Recorded sequences of a robotic arm performing precise tasks, including picking up a block and moving it to a designated location with perfect alignment of contact surfaces, based on guidance from human operators;
+- Referenced and utilized the Action Chunking with Transformers (ACT) framework to guide the development of an imitation learning model;
+- Built an imitation learning model that learns from a small dataset consisting of 20 sequences of recorded images and actions;
+- Employed modified Transformers to predict features of the next frame and used a decoder to generate subsequent actions based on the predicted frame and action data.
 
 ### Automatic Evaluation of Echocardiographic Images Using DNNs
 Course Project, NYU Courant, US
 Mar. 2024 - May. 2024
 
--Extracted the useful frames of the echocardiograms and pre-process the dataset;
--Trained models based on ResNet18 to classify the shooting angles of echocardiograms, ie. to classify the planes of the heart;
--Built models based on YOLOV8 to detect the structures of the heart, mainly ventricles, atriums, and valves;
--Evaluated the quality of the echocardiograms automatically using DNNs based on the detection results.
+- Extracted the useful frames of the echocardiograms and pre-process the dataset;
+- Trained models based on ResNet18 to classify the shooting angles of echocardiograms, ie. to classify the planes of the heart;
+- Built models based on YOLOV8 to detect the structures of the heart, mainly ventricles, atriums, and valves;
+- Evaluated the quality of the echocardiograms automatically using DNNs based on the detection results.
 
 ### Backdoor Attack and Defense Analysis on Autonomous Vehicle Simulation
 Research Assistant, CITIES, NYU Abu Dhabi, UAE
 Aug. 2023 - May. 2024
 
--Implemented backdoor attacks and defenses for autonomous vehicles with AlexNet and ResNet50;
--Evaluated the robustness of traffic sign recognition and object detection models against adversarial attacks, while considering the complete pipeline including traffic sign detection and other pre-processing stages;
--Improved the robustness of the Activation Clustering backdoor detection algorithm, which originally worked poorly on randomly positioned trigger patches and now it achieves almost 100\% accuracy in such cases.
+- Implemented backdoor attacks and defenses for autonomous vehicles with AlexNet and ResNet50;
+- Evaluated the robustness of traffic sign recognition and object detection models against adversarial attacks, while considering the complete pipeline including traffic sign detection and other pre-processing stages;
+- Improved the robustness of the Activation Clustering backdoor detection algorithm, which originally worked poorly on randomly positioned trigger patches and now it achieves almost 100\% accuracy in such cases.
 
 ### Automatic Media Attitudes Detector
 Individual Project, Microsoft AI Talent Program PRO
 Dec. 2022 - Feb. 2023
 
--Scraped Steam data as the training data randomly and fine-tuned BERT model and trained it with Steam comment data;
--Constructed a user interface for quick searches on subjects and presenting the results from the predictive model;
--Won the second prize in the final evaluation and given a chance to intern at Microsoft Beijing.
+- Scraped Steam data as the training data randomly and fine-tuned BERT model and trained it with Steam comment data;
+- Constructed a user interface for quick searches on subjects and presenting the results from the predictive model;
+- Won the second prize in the final evaluation and given a chance to intern at Microsoft Beijing.
 
 ## Conference
 ### Neuroscience 2024, Society for Neuroscience
