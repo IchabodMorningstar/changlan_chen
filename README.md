@@ -19,8 +19,6 @@ Sep. 2024 - present
 - Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
 - Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Decoding Neural Activity in Working Memory Tasks
 Research Assistant, CSDA, University of West Florida, US <br>
 Sep. 2024 - present
