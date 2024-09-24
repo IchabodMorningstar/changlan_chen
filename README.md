@@ -64,12 +64,14 @@ Dec. 2022 - Feb. 2023
 
 ## Conference
 ### Neuroscience 2024, Society for Neuroscience
-Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models" <br>
 Chicago, US, Oct. 2024
 
+Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models"
+
 ### Joint Mathematics Meeting 2025, American Mathematical Society
-Applied to present "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches" <br>
 Seattle, US, Jan. 2025
+
+Applied to present "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches"
 
 ## Publications
 1. Guo, Z., Liu, J., Liu, X., Meng, Z., Pu, M., Wu, H., Yan, X., Yang, G., Zhang, X., Chen, C. and Chen, F., 2024. An integrated MCDM model with enhanced decision support in transport safety using machine learning optimization. Knowledge-Based Systems, 301, p.112286.
