@@ -3,7 +3,11 @@
 #### Technical Skills: Python, MATLAB, C/C++, JavaScript, HTML&CSS
 
 ## Education		        		
-- B.S., Data Science with concentration in AI and Minor in Mathematics | New York University Shanghai (Sep 2021-May 2025)
+- B.S., Data Science with concentration in AI
+- Minor in Mathematics
+- New York University Shanghai (Sep 2021-May 2025)
+- New York University Abu Dhabi (Sep 2023-Dec 2023)
+- New York University (Jan 2024-Aug 2025)
 - GPA: 3.88/4.0
 
 ## Research & Projects
