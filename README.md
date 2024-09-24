@@ -64,13 +64,10 @@ Dec. 2022 - Feb. 2023
 
 ## Conference
 ### Neuroscience 2024, Society for Neuroscience
-Chicago, US, Oct. 2024
-
-Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models"
+Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models" | Chicago, US, Oct. 2024
 
 ### Joint Mathematics Meeting 2025, American Mathematical Society
 Seattle, US, Jan. 2025
-
 Applied to present "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches"
 
 ## Publications
