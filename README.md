@@ -28,6 +28,15 @@ Sep. 2024 - present
 - Combine the pre-trained CNN with RNN to simulate the visual input limits and neural activities of the human brain, and analyze these constraints;
 - Conducted low-dimensional analysis and hand-tuned modeling to extract underlying principles behind human-like behaviors.
 
+### Integrated MCDM Model For Transport Safety Using Machine Learning Optimization
+Research Assistant, Faan Chen's Lab, Harvard University, US <br>
+Mar. 2024 - Aug. 2024
+
+- Collaborated in the development of a novel MCDM model incorporating machine learning tools such as grid search for optimizing DBSCAN clustering parameters;
+- Contributed to the integration of the LOPCOW objective weighting method with MULTIMOORA and DBSCAN to enhance decision support systems for transport safety;
+- Participated in the empirical study, analyzing data from the European Union to validate the model's effectiveness in providing reliable transport safety policy recommendations;
+- Co-authored the paper "An integrated MCDM model with enhanced decision support in transport safety using machine learning optimization" and published.
+
 ### Imitation Learning on Precise Robotic Control
 Research Assistant, AI4CE, NYU Tandon, US <br>
 Jun. 2024 - Sep. 2024
