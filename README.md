@@ -7,7 +7,7 @@
 - New York University Shanghai (Sep 2021-May 2025)
 - New York University Abu Dhabi (Sep 2023-Dec 2023)
 - New York University (Jan 2024-Aug 2025)
-- GPA: 3.903/4.0
+- Cumulative GPA: 3.903/4.0, Major GPA: 3.969/4.0
 
 ## Research & Projects
 ### Modeling Human-Like Cognition and Vision with Neural Networks
