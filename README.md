@@ -6,8 +6,8 @@
 - B.S., Major: Data Science with concentration in AI, Minor: Mathematics
 - New York University Shanghai (Sep 2021-May 2025)
 - New York University Abu Dhabi (Sep 2023-Dec 2023)
-- New York University (Jan 2024-Aug 2025)
-- Cumulative GPA: 3.903/4.0, Major GPA: 3.969/4.0
+- New York University (Jan 2024-Aug 2024)
+- Cumulative GPA: 3.903/4.0, Major GPA: 3.969/4.0, Minor GPA: 4.0/4.0
 
 ## Research & Projects
 ### Modeling Human-Like Cognition and Vision with Neural Networks
