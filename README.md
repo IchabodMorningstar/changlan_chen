@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, C/C++, JavaScript, HTML&CSS
 
 ## Education		        		
-- B.S., Major: Data Science with concentration in AI, Minor: Mathematics
+- B.S., Major: Data Science, concentration in AI, Minor: Mathematics
 - New York University Shanghai (Sep 2021-May 2025)
 - New York University Abu Dhabi (Sep 2023-Dec 2023)
 - New York University (Jan 2024-Aug 2024)
@@ -11,7 +11,7 @@
 
 ## Research & Projects
 ### Modeling Human-Like Cognition and Vision with Neural Networks
-Capstone: Grade A, Supervisor: Prof. Sukbin Lim & Prof. Qiaoyu Tan, NYUSH, China <br>
+Capstone: Grade A, Supervisor: Prof. Sukbin Lim, NYUSH, China <br>
 Sep. 2024 - present
 
 - Simulated the human brain activities in change detection and delay match tasks using sensory-memory model structure, specifically ResNet18 + CTRNN/LSTM, to encode and memorize multiple stimuli;
@@ -73,10 +73,10 @@ Dec. 2022 - Feb. 2023
 
 ## Conference
 ### Neuroscience 2024, Society for Neuroscience
-Presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models" | Chicago, US, Oct. 2024
+Co-presenter for "Decoding Neural Activity in Working Memory Tasks Using Machine Learning Models" | Chicago, US, Oct. 2024
 
 ### Joint Mathematics Meeting 2025, American Mathematical Society
-Applied to present "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches" | Seattle, US, Jan. 2025
+Presenter for "Neural Decoding in Primate Working Memory: Machine Learning and Deep Learning Approaches" | Seattle, US, Jan. 2025
 
 ## Publications
 1. Guo, Z., Liu, J., Liu, X., Meng, Z., Pu, M., Wu, H., Yan, X., Yang, G., Zhang, X., Chen, C. and Chen, F., 2024. An integrated MCDM model with enhanced decision support in transport safety using machine learning optimization. Knowledge-Based Systems, 301, p.112286. \[<a href="url">https://doi.org/10.1016/j.knosys.2024.112286</a>\]
