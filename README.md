@@ -90,3 +90,12 @@ Jun. 2023 - Jul. 2023
 
 - Developed an answering machine based on GPT model and Llama-index, which reads any given articles and receives then answers relevant questions in human languages;
 - Improved the accuracy of the above machine by dividing the questions into sub-questions, then generating answers to each sub-questions, and eventually auto-summarizing them to the final answer.
+
+## Honors and Awards
+- 2025 NYU Shanghai Excellence Award ‑ Latin Honor: Magna Cum Laude, NYU Shanghai
+- 2025 New York University Founder’s Day Award, NYU
+- 2024 2024‑2025 Recognition Award, NYU Shanghai, $5000
+- 2024 Undergrad Summer Research Award, NYU Tandon, $5000
+- 2023 Visiting Student Research Award, NYU Abu Dhabi, $3000
+- 2023 2023‑2024 Recognition Award, NYU Shanghai, $5000
+- 22‑25 Dean’s List for Academic Years of 2022, 2023, 2024, 2025, NYU Shanghai
